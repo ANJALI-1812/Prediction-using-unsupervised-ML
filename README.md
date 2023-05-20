@@ -16,4 +16,5 @@ Recompute the centroids of newly formed clusters
 
 Repeat steps 3 and 4
 
-    ![image](https://github.com/ANJALI-1812/Prediction-using-unsupervised-ML/assets/131427667/f9587baa-dbe4-493b-9c20-dbf2b927cb47)
+   ![image](https://github.com/ANJALI-1812/Prediction-using-unsupervised-ML/assets/131427667/8735cdc0-bd15-4641-8c5d-174bf858d5a0)
+
